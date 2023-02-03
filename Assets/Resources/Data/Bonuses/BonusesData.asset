@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01192eeeb74e4b38b41c909d10cb410e, type: 3}
+  m_Name: BonusesData
+  m_EditorClassIdentifier: 
+  <SpawnPoint>k__BackingField: {x: 0, y: 5.75}
+  <Speed>k__BackingField: 2
+  _bonuses:
+  - <Name>k__BackingField: One Gun
+    <Prefab>k__BackingField: {fileID: 2229406632364324730, guid: c556cd8275c64564faf4dbee3b7b4d93, type: 3}
+    <Type>k__BackingField: 1
+  - <Name>k__BackingField: Two Guns
+    <Prefab>k__BackingField: {fileID: 2911049583327784369, guid: 388ce3fda22671e4aa3a078e3ff93bb1, type: 3}
+    <Type>k__BackingField: 2
+  - <Name>k__BackingField: Three Guns
+    <Prefab>k__BackingField: {fileID: 6441041456732504589, guid: bb11e4e8492790c44a2d27a0529b7002, type: 3}
+    <Type>k__BackingField: 3
+  - <Name>k__BackingField: Heart
+    <Prefab>k__BackingField: {fileID: 192510001912759947, guid: 98bd5dc75f720154ab7f9a81f37a950e, type: 3}
+    <Type>k__BackingField: 4
+  - <Name>k__BackingField: Up Bullet Speed
+    <Prefab>k__BackingField: {fileID: 6953038916042391475, guid: 810e21a38eda05843837468d8ab69f36, type: 3}
+    <Type>k__BackingField: 5
